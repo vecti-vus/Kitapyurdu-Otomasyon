@@ -1,0 +1,65 @@
+[INFO ] 2022-09-05 14:42:05.036 [main] TestTest - Kitapyurdu Anasayfası Başarıyla Açıldı.
+[INFO ] 2022-09-05 14:42:06.572 [main] TestTest - Gerekli Arama Başarıyla Gerçekleşti.
+[INFO ] 2022-09-05 14:42:10.294 [main] TestTest - Rastgele Kitap Başarıyla Şeçildi.
+[INFO ] 2022-09-05 14:42:10.361 [main] TestTest - Kitap Sepete Eklendi.
+[INFO ] 2022-09-05 14:42:10.587 [main] TestTest - Sepette ki değer kontrol edilir.
+[INFO ] 2022-09-05 14:42:10.641 [main] TestTest - Sepet iconuna tıklanır.
+[INFO ] 2022-09-05 14:42:11.566 [main] TestTest - Sepete gidilir.
+[INFO ] 2022-09-05 14:42:11.624 [main] TestTest - Sepette ki değer arttırılır.
+[INFO ] 2022-09-05 14:42:11.671 [main] TestTest - Sepet yenilenir.
+[INFO ] 2022-09-05 14:42:11.847 [main] TestTest - Sepetin güncellenmesi kontrol edilir.
+[INFO ] 2022-09-05 14:42:12.238 [main] TestTest - Sepette ki ürünler kaldırılır.
+[INFO ] 2022-09-05 14:42:12.403 [main] TestTest - Sepete tıklanır.
+[INFO ] 2022-09-05 14:42:12.677 [main] TestTest - Sepetin boş olduğu kontrol edilir.
+[INFO ] 2022-09-05 14:58:24.982 [main] Tests - Kitapyurdu Anasayfası Başarıyla Açıldı.
+[INFO ] 2022-09-05 14:58:26.966 [main] Tests - Gerekli Arama Başarıyla Gerçekleşti.
+[INFO ] 2022-09-05 14:58:30.714 [main] Tests - Rastgele Kitap Başarıyla Şeçildi.
+[INFO ] 2022-09-05 14:58:30.767 [main] Tests - Kitap Sepete Eklendi.
+[INFO ] 2022-09-05 14:58:30.983 [main] Tests - Sepette ki değer kontrol edilir.
+[INFO ] 2022-09-05 14:58:31.026 [main] Tests - Sepet iconuna tıklanır.
+[INFO ] 2022-09-05 14:58:32.332 [main] Tests - Sepete gidilir.
+[INFO ] 2022-09-05 14:58:32.389 [main] Tests - Sepette ki değer arttırılır.
+[INFO ] 2022-09-05 14:58:32.439 [main] Tests - Sepet yenilenir.
+[INFO ] 2022-09-05 14:58:32.598 [main] Tests - Sepetin güncellenmesi kontrol edilir.
+[INFO ] 2022-09-05 14:58:32.891 [main] Tests - Sepette ki ürünler kaldırılır.
+[INFO ] 2022-09-05 14:58:33.054 [main] Tests - Sepete tıklanır.
+[INFO ] 2022-09-05 14:58:33.264 [main] Tests - Sepetin boş olduğu kontrol edilir.
+[INFO ] 2022-09-07 05:29:49.361 [main] Tests - Kitapyurdu Anasayfası Başarıyla Açıldı.
+[INFO ] 2022-09-07 05:29:50.377 [main] Tests - Gerekli Arama Başarıyla Gerçekleşti.
+[INFO ] 2022-09-07 05:29:54.628 [main] Tests - Rastgele Kitap Başarıyla Şeçildi.
+[INFO ] 2022-09-07 05:29:54.683 [main] Tests - Kitap Sepete Eklendi.
+[INFO ] 2022-09-07 05:29:54.855 [main] Tests - Sepette ki değer kontrol edilir.
+[INFO ] 2022-09-07 05:29:54.898 [main] Tests - Sepet iconuna tıklanır.
+[INFO ] 2022-09-07 05:29:55.668 [main] Tests - Sepete gidilir.
+[INFO ] 2022-09-07 05:29:55.728 [main] Tests - Sepette ki değer arttırılır.
+[INFO ] 2022-09-07 05:29:55.779 [main] Tests - Sepet yenilenir.
+[INFO ] 2022-09-07 05:29:55.944 [main] Tests - Sepetin güncellenmesi kontrol edilir.
+[INFO ] 2022-09-07 05:29:56.241 [main] Tests - Sepette ki ürünler kaldırılır.
+[INFO ] 2022-09-07 05:29:56.458 [main] Tests - Sepete tıklanır.
+[INFO ] 2022-09-07 05:29:56.665 [main] Tests - Sepetin boş olduğu kontrol edilir.
+[INFO ] 2022-09-07 05:35:45.970 [main] Tests - Kitapyurdu Anasayfası Başarıyla Açıldı.
+[INFO ] 2022-09-07 05:35:50.858 [main] Tests - Gerekli Arama Başarıyla Gerçekleşti.
+[INFO ] 2022-09-07 05:35:55.255 [main] Tests - Rastgele Kitap Başarıyla Şeçildi.
+[INFO ] 2022-09-07 05:35:55.311 [main] Tests - Kitap Sepete Eklendi.
+[INFO ] 2022-09-07 05:35:55.536 [main] Tests - Sepette ki değer kontrol edilir.
+[INFO ] 2022-09-07 05:35:55.580 [main] Tests - Sepet iconuna tıklanır.
+[INFO ] 2022-09-07 05:35:56.787 [main] Tests - Sepete gidilir.
+[INFO ] 2022-09-07 05:35:56.844 [main] Tests - Sepette ki değer arttırılır.
+[INFO ] 2022-09-07 05:35:56.895 [main] Tests - Sepet yenilenir.
+[INFO ] 2022-09-07 05:35:57.109 [main] Tests - Sepetin güncellenmesi kontrol edilir.
+[INFO ] 2022-09-07 05:35:57.509 [main] Tests - Sepette ki ürünler kaldırılır.
+[INFO ] 2022-09-07 05:35:57.736 [main] Tests - Sepete tıklanır.
+[INFO ] 2022-09-07 05:35:57.943 [main] Tests - Sepetin boş olduğu kontrol edilir.
+[INFO ] 2022-12-25 20:46:45.101 [main] Tests - Kitapyurdu Anasayfası Başarıyla Açıldı.
+[INFO ] 2022-12-25 20:46:45.916 [main] Tests - Gerekli Arama Başarıyla Gerçekleşti.
+[INFO ] 2022-12-25 20:46:49.770 [main] Tests - Rastgele Kitap Başarıyla Şeçildi.
+[INFO ] 2022-12-25 20:46:49.828 [main] Tests - Kitap Sepete Eklendi.
+[INFO ] 2022-12-25 20:46:50.256 [main] Tests - Sepette ki değer kontrol edilir.
+[INFO ] 2022-12-25 20:46:50.307 [main] Tests - Sepet iconuna tıklanır.
+[INFO ] 2022-12-25 20:46:51.014 [main] Tests - Sepete gidilir.
+[INFO ] 2022-12-25 20:46:51.077 [main] Tests - Sepette ki değer arttırılır.
+[INFO ] 2022-12-25 20:46:51.129 [main] Tests - Sepet yenilenir.
+[INFO ] 2022-12-25 20:46:51.343 [main] Tests - Sepetin güncellenmesi kontrol edilir.
+[INFO ] 2022-12-25 20:46:51.648 [main] Tests - Sepette ki ürünler kaldırılır.
+[INFO ] 2022-12-25 20:46:51.874 [main] Tests - Sepete tıklanır.
+[INFO ] 2022-12-25 20:46:52.148 [main] Tests - Sepetin boş olduğu kontrol edilir.
